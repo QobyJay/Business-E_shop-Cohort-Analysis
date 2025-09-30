@@ -20,9 +20,9 @@ Identified customer segments with higher churn.
 Suggested loyalty programs and engagement strategies to improve retention.
 💻 Tech Stack
 Languages: Python (pandas, NumPy)
-Visualization: Matplotlib, Seaborn, Power BI/Tableau (optional dashboards)
+Visualization: Matplotlib, Seaborn
 Data Processing: SQL for cohort extraction
-📊 Key Findings (Example)
+📊 Key Findings 
 Average retention rate after 3 months: ~45%.
 Cohorts acquired during promotional campaigns showed higher early churn.
 Customers with higher first-month engagement retained 20% longer than average.
